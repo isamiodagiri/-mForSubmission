@@ -1,2 +1,2 @@
 # -mForSubmission
-GitAPIForSubmission
+GitHubAPIForSubmission
